@@ -1,1 +1,2 @@
-# Sistemas-de-Gestion-y-Control_Trabajos-Practicos
+# Sistemas de Gestion y Control
+### Repositorio para Trabajos Practicos
